@@ -30,9 +30,13 @@ Hi! I'm a passionate Full Stack Developer who loves building robust backends, sl
 
 ### 📜 Certifications
 
-- ✅ Microsoft Certified: **Azure Solutions Architect Expert**
-- ✅ Microsoft Certified: **Azure Developer Associate**
-- ✅ Microsoft Certified: **Azure Administrator Associate**
+I’m certified across multiple Azure specialties, including architecture, development, and administration:
+
+- ✅ [**Microsoft Certified: Azure Administrator Associate**](https://learn.microsoft.com/api/credentials/share/en-us/AliMurtaza-0549/6F0345B36A9D70DB?sharingId=80164617471243A0)  
+
+- ✅ [**Microsoft Certified: Azure Solutions Architect Expert**](https://learn.microsoft.com/api/credentials/share/en-us/AliMurtaza-0549/E4475FE8351DD387?sharingId=80164617471243A0)  
+
+- ✅ [**Microsoft Certified: Azure Developer Associate**](https://learn.microsoft.com/api/credentials/share/en-us/AliMurtaza-0549/AE2B5830AF4F02AE?sharingId=80164617471243A0)  
 
 ---
 
